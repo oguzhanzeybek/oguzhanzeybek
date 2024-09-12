@@ -4,6 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=oguzhanzeybek&&style=plastics&&color=red" align="right"/> </p>
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
 
 <br>
  
@@ -12,7 +13,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%040f2e&lines=Welcome+to+Oguzhan+Zeybek+Channel,;+have+a+nice+day!+%7c)
 
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0ffcff&lines=About+Me:%7c)
+<h2 align="center"> 
+ </h2>  
 <p align="left">-> Hi, I'm Oguzhan Zeybek.I am a Management Information System (studying in German) student.. <br>-> Living in İstanbul. Learning is my greatest passion.<br>-> Don't hesitate to contact me!</p>
 <br>
 
