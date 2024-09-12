@@ -1,7 +1,7 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235DD600&title_bg=%23000000&icon=reactos.svg&icon_color=%2368F200&title=hits&edge_flat=false" align="right"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2368F200&title_bg=%23000000&icon=reactos.svg&icon_color=%2368F200&title=hits&edge_flat=false" align="right"/></a>
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://komarev.com/ghpvc/?username=oguzhanzeybek&&style=plastics&&color=yellow" align="right"/> </p>
+<img src="https://komarev.com/ghpvc/?username=oguzhanzeybek&&style=plastics&&color=red" align="right"/> </p>
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -10,10 +10,11 @@
 <div id="header" align="left">
 <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="300"/> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%338000&lines=Welcome+to+Oguzhan+Zeybek+Channel,;+have+a+nice+day!+%7c)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%040f2e&lines=Welcome+to+Oguzhan+Zeybek+Channel,;+have+a+nice+day!+%7c)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=About+Me:%7c)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0ffcff&lines=About+Me:%7c)
 <p align="left">-> Hi, I'm Oguzhan Zeybek.I am a Management Information System (studying in German) student.. <br>-> Living in İstanbul. Learning is my greatest passion.<br>-> Don't hesitate to contact me!</p>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
 </a> 
