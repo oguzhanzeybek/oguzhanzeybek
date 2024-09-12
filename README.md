@@ -1,6 +1,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2368F200&title_bg=%23000000&icon=reactos.svg&icon_color=%2368F200&title=hits&edge_flat=false" align="right"/></a>
 <br>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<p align="center"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 <img src="https://komarev.com/ghpvc/?username=oguzhanzeybek&&style=plastics&&color=red" align="right"/> </p>
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
