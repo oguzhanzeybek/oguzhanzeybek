@@ -18,7 +18,7 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0ffcff&lines=About+Me:%7c)
-<br>
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="left">
      <img src="https://img.icons8.com/emoji/20/000000/man-technologist.png"/> Hi, I'm <strong>Oguzhan Zeybek</strong>.<br>
     <img src="https://img.icons8.com/color/20/000000/graduation-cap.png"/> I am studying <strong>Management Information Systems (German program)</strong>.<br>
