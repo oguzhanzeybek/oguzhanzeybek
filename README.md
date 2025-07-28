@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%040f2e&size=40&lines=Welcome+to+Oguzhan+Zeybek+Channel,;+have+a+nice+day!+%7c" alt="Typing SVG"/>
+    <img src="![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%040f2e&lines=Welcome+to+Oguzhan+Zeybek+Channel,;+have+a+nice+day!+%7c)" alt="Typing SVG"/>
 </div>
 
 
