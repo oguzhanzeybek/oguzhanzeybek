@@ -18,9 +18,10 @@
 
 
 
-<b> <div align="left">
+ <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=%0ffcff&lines=About+Me:%7c" alt="Typing SVG" />
-</div> </b>
+</div> 
+<h2> </h2>
 
 
 <p align="left">
