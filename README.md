@@ -21,7 +21,7 @@
 <h2 align="center"> 
  </h2>  
 <p align="left">
-    <img src="[https://img.icons8.com/emoji/20/000000/man-technologist.png](https://cdn.pixabay.com/photo/2024/05/14/11/39/tv-8760958_1280.png)"/> Hi, I'm <strong>Oguzhan Zeybek</strong>.<br>
+    <img src="https://cdn.pixabay.com/photo/2024/05/14/11/39/tv-8760958_1280.png"/> Hi, I'm <strong>Oguzhan Zeybek</strong>.<br>
     <img src="https://img.icons8.com/color/20/000000/graduation-cap.png"/> I am studying <strong>Management Information Systems (German program)</strong>.<br>
     <img src="https://img.icons8.com/color/20/000000/worldwide-location.png"/> Based in <strong>Istanbul</strong>, with a strong passion for continuous learning.<br>
     <img src="https://img.icons8.com/color/20/000000/handshake.png"/> Feel free to reach out to me anytime!
