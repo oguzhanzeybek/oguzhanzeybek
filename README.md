@@ -1,10 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%040f2e&size=40&lines=Welcome+to+Oguzhan+Zeybek+Channel,;+have+a+nice+day!+%7c)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=39FF14&lines=Hi+There!;+I'm+Oguzhan+Zeybek!;" />
-</h1>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%040f2e&lines=Welcome+to+Oguzhan+Zeybek+Channel,;+have+a+nice+day!+%7c)
 
 <img src="https://komarev.com/ghpvc/?username=oguzhanzeybek&&style=plastics&&color=red" align="right"/> </p>
 <br>
