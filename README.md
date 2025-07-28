@@ -1,4 +1,9 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2368F200&title_bg=%23000000&icon=reactos.svg&icon_color=%2368F200&title=hits&edge_flat=false" align="left"/></a>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 <img src="https://komarev.com/ghpvc/?username=oguzhanzeybek&&style=plastics&&color=red" align="right"/> </p>
 <br>
 <p align="center"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
