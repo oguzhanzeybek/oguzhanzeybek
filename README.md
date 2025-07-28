@@ -18,8 +18,8 @@
 
  <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=%0ffcff&lines=About+Me:%7c" alt="Typing SVG" /> </div>
-<p align="left" style="font-size:16px; line-height: 1.8;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/> Hi, I'm <strong>Oguzhan Zeybek</strong>.<br>
+<p align="left">
+     <img src=""/> Hi, I'm <strong>Oguzhan Zeybek</strong>.<br>
     <img src="https://img.icons8.com/color/20/000000/graduation-cap.png"/> I am studying <strong>Management Information Systems (German program)</strong>.<br>
     <img src="https://img.icons8.com/color/20/000000/worldwide-location.png"/> Based in <strong>Istanbul</strong>, with a strong passion for continuous learning.<br>
     <img src="https://img.icons8.com/color/20/000000/handshake.png"/> Feel free to reach out to me anytime!
