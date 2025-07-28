@@ -16,7 +16,14 @@
 
 <br>
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D1FF&width=500&lines=About+Me%3A%7C" alt="Typing SVG" /> </div><p align="center"> <br> <img src="https://img.icons8.com/fluency/48/000000/user-male-circle.png"/> <strong>Hi, I'm Oğuzhan Zeybek</strong><br><br> <img src="https://img.icons8.com/color/24/000000/student-male.png"/> Studying <strong>Management Information Systems (German Program)</strong><br> <img src="https://img.icons8.com/color/24/000000/marker.png"/> Based in <strong>Istanbul, Türkiye</strong><br> <img src="https://img.icons8.com/color/24/000000/brain.png"/> Passionate about <strong>AI, Data Science & Web Development</strong><br> <img src="https://img.icons8.com/color/24/000000/handshake.png"/> <strong>Open to collaboration!</strong> Let's connect!<br><br> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://linkedin.com/in/yourusername"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/yourusername"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
+ <div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%0ffcff&lines=About+Me:%7c" alt="Typing SVG" /> </div>
+<p align="left">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/> Hi, I'm <strong>Oguzhan Zeybek</strong>.<br>
+    <img src="https://img.icons8.com/color/20/000000/graduation-cap.png"/> I am studying <strong>Management Information Systems (German program)</strong>.<br>
+    <img src="https://img.icons8.com/color/20/000000/worldwide-location.png"/> Based in <strong>Istanbul</strong>, with a strong passion for continuous learning.<br>
+    <img src="https://img.icons8.com/color/20/000000/handshake.png"/> Feel free to reach out to me anytime!
+</p>
 
 
 <br>
