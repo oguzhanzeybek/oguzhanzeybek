@@ -20,6 +20,7 @@
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=%0ffcff&lines=About+Me:%7c" alt="Typing SVG" />
 </div>
+<b> </b>
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="left">
