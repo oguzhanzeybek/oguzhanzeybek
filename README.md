@@ -24,7 +24,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0ffcff&lines=About+Me:%7c)
 <h2 align="center"> 
  </h2>  
-<p align="left">-> Hi, I'm Oguzhan Zeybek.I am a Management Information System (studying in German) student.. <br>-> Living in İstanbul. Learning is my greatest passion.<br>-> Don't hesitate to contact me!</p>
+<p align="left">
+    → Hi, I'm <strong>Oguzhan Zeybek</strong>.<br>
+    → I am studying <strong>Management Information Systems (German program)</strong>.<br>
+    → Based in <strong>Istanbul</strong>, with a strong passion for continuous learning.<br>
+    → Feel free to reach out to me anytime!
+</p>
+
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
