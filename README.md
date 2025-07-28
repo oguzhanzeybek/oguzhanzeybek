@@ -71,7 +71,7 @@
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
  
- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oguzhanzeybek&theme=dark&background=000000)](https://git.io/streak-stats)
 
