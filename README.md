@@ -1,9 +1,9 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=green&duration=4000&lines=Hi+There!+;+I'm+Oguzhan+Zeybek!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=39FF14&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
+
 <img src="https://komarev.com/ghpvc/?username=oguzhanzeybek&&style=plastics&&color=red" align="right"/> </p>
 <br>
 <p align="center"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
